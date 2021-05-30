@@ -1,0 +1,17 @@
+{
+  "name": "zx-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rudi Yardley",
+  "license": "MIT",
+  "scripts": {
+    "bug": "zx bug.mjs",
+    "fix": "./fix.mjs"
+  },
+  "devDependencies": {
+    "zx": "^1.14.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
